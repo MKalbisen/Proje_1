@@ -13,6 +13,8 @@ Bu projenin amacı bir e‑ticaret sitesine ait satış verilerini analiz ederek
 * `basket_details.csv` — Sepet / işlem kayıtları 
 * `README.md` — Projeyi, kullanım talimatlarını ve analiz adımlarını açıklar.
 
+[Kullanılan veri setini buradan bulabilirsiniz.](https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data)
+
 > Not: proje_1.py dosyasını okuması daha rahat olması için ekledim. proje_1.ipynb dosyası daha detaylı sonuçlar içeriyor.
 
 ---
