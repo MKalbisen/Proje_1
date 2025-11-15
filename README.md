@@ -8,7 +8,7 @@ Bu projenin amacı bir e‑ticaret sitesine ait satış verilerini analiz ederek
 
 ## İçerik ve Dosya Yapısı
 
-* `proje_1.py` — Analiz kodları 
+* `proje_1.py ve proje_2.ipynb` — Analiz kodları 
 * `customer_details.csv` — Müşteri bilgileri 
 * `basket_details.csv` — Sepet / işlem kayıtları 
 * `README.md` — Projeyi, kullanım talimatlarını ve analiz adımlarını açıklar.
