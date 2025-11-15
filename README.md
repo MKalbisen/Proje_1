@@ -45,12 +45,12 @@ Aşağıdaki paketler kullanıldı:
 * numpy
 * matplotlib
 
-Kurulum için:
+Kurulum için aşağıdaki kodları terminalde çalıştırın:
 * Öncelikle projeyi cihazınıza klonlayın:
 ```bash
 git clone https://github.com/MKalbisen/Proje_1
 ```
-* Sonra gereklilikleri yükleyin:
+* Gereklilikleri yükleyin:
 ```bash
 pip install -r .\requirements.txt
 ```
