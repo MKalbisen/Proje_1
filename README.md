@@ -46,13 +46,14 @@ Aşağıdaki paketler kullanıldı:
 * matplotlib
 
 Kurulum için:
-* Öncelikle projeyi cihazınıza klonlayın
+* Öncelikle projeyi cihazınıza klonlayın:
 ```bash
 git clone https://github.com/MKalbisen/Proje_1
 ```
-* Sonra gereklilikleri yükleyin
+* Sonra gereklilikleri yükleyin:
 ```bash
 pip install -r .\requirements.txt
+```
 
 ---
 
