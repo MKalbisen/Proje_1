@@ -12,6 +12,7 @@ Bu projenin amacı bir e‑ticaret sitesine ait satış verilerini analiz ederek
 * `customer_details.csv` — Müşteri bilgileri 
 * `basket_details.csv` — Sepet / işlem kayıtları 
 * `README.md` — Projeyi, kullanım talimatlarını ve analiz adımlarını açıklar.
+* `requirements.txt` — Gereksinimler 
 
 [Kullanılan veri setini buradan bulabilirsiniz.](https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data)
 
