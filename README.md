@@ -60,7 +60,7 @@ pip install -r .\requirements.txt
 ## Nasıl Çalıştırılır
 
 1. `customer_details.csv` ve `basket_details.csv` dosyalarını proje klasörüne koyun.
-2. `proje_1.py` dosyasını çalıştırın:
+2. `proje_1.ipynb` dosyasındaki hücreleri sırayla çalıştırın:
 
 ---
 
