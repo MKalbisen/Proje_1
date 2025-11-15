@@ -40,11 +40,19 @@ Bu projenin amacı bir e‑ticaret sitesine ait satış verilerini analiz ederek
 ## Kurulum & Gereksinimler
 
 Aşağıdaki paketler kullanıldı:
-
-* Python 3.8+
+* Python 3.11.0
 * pandas
 * numpy
 * matplotlib
+
+Kurulum için:
+* Öncelikle projeyi cihazınıza klonlayın
+```bash
+git clone https://github.com/MKalbisen/Proje_1
+```
+* Sonra gereklilikleri yükleyin
+```bash
+pip install -r .\requirements.txt
 
 ---
 
